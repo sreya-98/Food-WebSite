@@ -1,0 +1,28 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient(45deg,pink,teal,lightcoral);
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+}
+h1{
+    font-family: "Castellar",sans-serif;
+    font-size: 30px;
+}
+h3{
+    background: linear-gradient(45deg,white,red);
+    box-shadow: 0 0 10px blue;
+    padding: 10px;
+    color: teal;
+    border-radius: 50%;
+    width : 500px;
+    margin: auto;
+}
+table{
+    width: 100%;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
